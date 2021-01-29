@@ -1,2 +1,2 @@
 test1-origin
-test2-change,test1-change-1
+test2-change
